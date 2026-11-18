@@ -1,26 +1,26 @@
-# RUNNN 🕯️👹
+# RUNNN 
 > **A Psychological Survival Horror Game Where The Rules Change**  
 > *MADE BY VPS*  
 > 
-> 🎮 **Play Online Directly in Browser:** [https://vansh-vps.github.io/TRIAL/](https://vansh-vps.github.io/TRIAL/)
+>  **Play Online Directly in Browser:** [https://vansh-vps.github.io/TRIAL/](https://vansh-vps.github.io/TRIAL/)
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 - [About the Game](#-about-the-game)
-- [✨ The "Curious Thing" in this Game](#-the-curious-thing-in-this-game)
-- [🎮 How to Play](#-how-to-play)
+- [The "Curious Thing" in this Game](#-the-curious-thing-in-this-game)
+- [ How to Play](#-how-to-play)
   - [Core Objectives](#core-objectives)
   - [Items & Mechanics](#items--mechanics)
-- [🕹️ Controls](#️-controls)
-- [🏆 Game Modes](#-game-modes)
-- [💡 Survival Tips & Strategies](#-survival-tips--strategies)
-- [🚀 How to Run the Game](#-how-to-run-the-game)
-- [📜 Credits & Attribution](#-credits--attribution)
+- [ Controls](#️-controls)
+- [ Game Modes](#-game-modes)
+- [ Survival Tips & Strategies](#-survival-tips--strategies)
+- [ How to Run the Game](#-how-to-run-the-game)
+- [ Credits & Attribution](#-credits--attribution)
 
 ---
 
-## 🌑 About the Game
+##  About the Game
 
 **RUNNN** is a tense, atmospheric retro top-down pixel horror game set inside a subterranean, decaying industrial facility. You play as an isolated maintenance worker surviving night shifts in a dark maze of rusty corridors, conveyor belts, generators, and a colossal central furnace.
 
@@ -28,7 +28,7 @@ Stalking the corridors is a relentless entity known as **Cobb**. Your job is to 
 
 ---
 
-## ✨ The "Curious Thing" in this Game
+##  The "Curious Thing" in this Game
 
 Most horror games adhere to fixed rules: the monster has a set detection radius, moves at a predictable speed, and follows consistent behavioral logic.
 
@@ -36,20 +36,20 @@ Most horror games adhere to fixed rules: the monster has a set detection radius,
 
 The game's defining hook is its **Dynamic Rule Shifting System** (`constants.json`): before each night begins (or whenever you press `TAB`), the game assigns a new combination of **Monster Rules** and **Player Rules**. A strategy that kept you alive on Night 1 could get you killed in seconds on Night 2.
 
-### 👹 Monster Rules (Cobb's Mutating Senses)
+###  Monster Rules (Cobb's Mutating Senses)
 * **`monster.see` (Cobb can See)**: Light becomes your worst enemy. If you step under lamps or carry a lit candle within Cobb's line of sight, he will immediately charge. You must navigate using dark corners and shadows.
 * **`monster.hear` (Cobb can Hear)**: Sound travels across the bunker. Sprinting or flipping loud circuit breakers will alert Cobb across rooms. You can pick up and throw **rocks** to generate noise elsewhere and lure him away.
 * **`monster.smell` (Cobb can Smell)**: Cobb tracks your scent trail. You cannot hide behind walls or in dark corners. As he closes in, you will hear his horrifying sniffing audio cue grow louder. Constant movement and distance management are your only defense.
 * **`monster.duplicate` (Cobb Duplicates)**: A single creature is no longer your only problem. Multiple copies of Cobb roam the corridors simultaneously, cutting off escape routes and flanking you.
 * **`monster.reach` (Cobb can Reach)**: Cobb sprouts horrifying elongated limbs, allowing him to grab you from a distance and snatch you around tight corridor corners.
 
-### 👤 Player Rules (Your Personal Afflictions)
+###  Player Rules (Your Personal Afflictions)
 * **`you.freeze` (Freezing Cold)**: A **Freeze Meter** appears on screen. The facility temperature drops to sub-zero levels. If the meter empties, you freeze to death. You must periodically return to the warm central furnace or carry a lit candle to stay warm.
 * **`you.starve` (Starvation)**: A **Hunger Meter** appears on screen. Your body exhausts its energy rapidly. You must explore the dark maze to scavenge for carrots growing through facility cracks to keep yourself fed before starving.
 
 ---
 
-## 🎮 How to Play
+##  How to Play
 
 ### Core Objectives
 Each shift presents a checklist of industrial maintenance tasks displayed in the bottom status panel:
@@ -77,7 +77,7 @@ Each shift presents a checklist of industrial maintenance tasks displayed in the
 
 ---
 
-## 🕹️ Controls
+##  Controls
 
 Fully supports both **Keyboard & Mouse** and **Gamepad**:
 
@@ -92,7 +92,7 @@ Fully supports both **Keyboard & Mouse** and **Gamepad**:
 
 ---
 
-## 🏆 Game Modes
+##  Game Modes
 
 * **Story Mode**:
   - The progressive campaign featuring escalating difficulty, shifting rule sets each night, and persistent save data.
@@ -105,7 +105,7 @@ Fully supports both **Keyboard & Mouse** and **Gamepad**:
 
 ---
 
-## 💡 Survival Tips & Strategies
+##  Survival Tips & Strategies
 
 1. **Check the Rules Immediately (`TAB`)**:
    - Always press `TAB` at the start of a shift to see what Cobb can do and whether you need to manage hunger or temperature.
@@ -123,7 +123,7 @@ Fully supports both **Keyboard & Mouse** and **Gamepad**:
 
 ---
 
-## 📜 Credits & Attribution
+##  Credits & Attribution
 
 * **Recreation & Enhancements**: MADE BY VPS
 * **Original Game & Concept**: Winner of **Major Jam 7**
